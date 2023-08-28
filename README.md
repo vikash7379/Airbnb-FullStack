@@ -1,4 +1,4 @@
-# My Airbnb Project
+# My Airbnb Clone
 
 ![Project Logo](link-to-your-logo.png) <!-- Add your project logo here -->
 
