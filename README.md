@@ -4,30 +4,15 @@
 
 Welcome to my Airbnb project! This is a MERN (MongoDB, Express, React, Node.js) web application built with Next.js that allows users to find and book accommodations. The project also incorporates various technologies like authentication, Google Maps integration, and a calendar system for booking.
 
-## Table of Contents
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-
-## Features
-- User Authentication: Secure user registration and login system.
-- Accommodation Listings: Users can search and view available accommodations.
-- Google Maps Integration: Displaying the location of accommodations on a map.
-- Calendar System: Booking accommodations with an integrated calendar.
-- Responsive Design: A user-friendly experience across various devices.
-
 ## Technologies Used
-- MERN Stack (MongoDB, Express, React, Node.js)
-- Next.js: Server-side rendering and enhanced performance.
-- Authentication: Implementing user authentication using JWT.
-- MongoDB: Storing accommodation and user data.
-- Google Maps API: Integrating maps for accommodation locations.
-- Calendar: Implementing a booking calendar.
-- CSS Framework: Ensuring responsive and appealing design.
+- 💻 MERN Stack (MongoDB, Express, React, Node.js)
+- 📦 Next.js: Server-side rendering and enhanced performance.
+- 🔒 Authentication: Implementing user authentication using JWT.
+- 🗄️ MongoDB: Storing accommodation and user data.
+- 🗺️ Google Maps API: Integrating maps for accommodation locations.
+- 📅 Calendar: Implementing a booking calendar.
+- 📱 Responsive Design: A user-friendly experience across various devices.
+
 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/your-username/your-airbnb-project.git`
@@ -51,4 +36,6 @@ Welcome to my Airbnb project! This is a MERN (MongoDB, Express, React, Node.js) 
 Contributions are welcome! If you find any issues or want to enhance the project, feel free to submit a pull request. Make sure to follow the code of conduct.
 
 ## License
-This project is licensed under the [Your License Name] License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Vikash License - see the [LICENSE](LICENSE) file for details.
+
+**Feel free to** :star: this repository if you find it helpful! :rocket:
