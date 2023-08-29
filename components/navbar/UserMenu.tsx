@@ -2,9 +2,10 @@
 import React, { useCallback, useState } from 'react'
 import {AiOutlineMenu} from 'react-icons/ai'
 import Avatar from '../Avatar'
+import useRegistrationModal from '../../Hooks/useRegistraionModal'
 
 const UserMenu = () => {
-
+    const registerModal = useRegistrationModal();
     const [isOpen,setIsOpen] = useState(false)
 
     const toggleOpen = useCallback(()=>{
@@ -34,7 +35,7 @@ const UserMenu = () => {
                         <li onClick={()=>{}} className='px-4 py-3 hover:bg-neutral-100  transition font-semibold'>
                             Login
                         </li>
-                        <li onClick={()=>{}} className='px-4 py-3 hover:bg-neutral-100  transition font-semibold'>
+                        <li onClick={registerModal.onOpen} className='px-4 py-3 hover:bg-neutral-100  transition font-semibold'>
                             Sign up
                         </li>
                     </ul>
