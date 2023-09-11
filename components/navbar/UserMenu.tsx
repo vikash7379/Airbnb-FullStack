@@ -12,7 +12,6 @@ const UserMenu = () => {
         setIsOpen(!isOpen)
     },[isOpen])
 
-    console.log("is" ,isOpen)
   return (
     <div className='relative'>
         <div className='flex flex-row items-center gap-3'>
